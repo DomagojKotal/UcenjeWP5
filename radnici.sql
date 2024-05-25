@@ -1,0 +1,8 @@
+----create database radnici;
+----use radnici;
+--create table radnik(
+--sifra int primary key;
+--ime nvarchare(50);
+--prezime nvvarchar(50);
+--nadredeni int primary key;
+--);
