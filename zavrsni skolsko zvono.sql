@@ -1,0 +1,15 @@
+--create database skolskozvono;
+--use skolskozvono;
+--create table cijelovitipristup(
+--ravnatelj int primary key
+--profesorismjene int primary key
+--tajnistvo int primary key
+--psiholog int primary key
+--)
+----create table pristup; 
+--profesori int
+--dezurniucenici int
+--cistacice int
+--domari int
+----)
+create table prvasmijena(
