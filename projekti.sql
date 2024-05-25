@@ -1,0 +1,26 @@
+----create database projekti;
+----use projekti;
+----create table sudjeluje(
+--zaposlenik int primary key
+--projekti int primary key
+--datumpristupanja datetime
+--)
+--create table zaposlenik(
+--sifra int primary key
+--nadredeni int
+--ime varchar(50);
+--prezime varchar(50)
+--datumrodenja datetime
+--placa decimal(18,2)
+--odijel int
+--);
+--create table projekt(
+--sifra int primary key
+--naziv varchar(45)
+--datumpocetka datetime
+--datumkraja date time
+--)
+--create table odjel(
+--sifra int primary key 
+--naziv varchar(45)
+--)
